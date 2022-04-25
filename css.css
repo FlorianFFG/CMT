@@ -1,0 +1,29 @@
+
+body{
+    background-color: black;
+}
+
+a{
+    align-items: center;
+    text-align: center;
+    display: block;
+    font-family: Arial;
+    text-decoration: none;
+    color: rgb(114, 194, 118);
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: lime;
+    text-align: center;
+}
+
+pre{
+    text-align: center;
+    color:white;
+    font-size: 40;
+}
